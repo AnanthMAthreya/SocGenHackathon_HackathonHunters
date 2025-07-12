@@ -1,0 +1,272 @@
+[
+    {
+        "title": "Joint Statement from CISA, FBI, DC3 and NSA on Potential Targeted Cyber Activity Against U.S. Critical Infrastructure by Iran",
+        "link": "https://www.cisa.gov/news-events/news/joint-statement-cisa-fbi-dc3-and-nsa-potential-targeted-cyber-activity-against-us-critical",
+        "published": "Mon, 30 Jun 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA Welcomes Madhu Gottumukkala as the New Deputy Director",
+        "link": "https://www.cisa.gov/news-events/news/cisa-welcomes-madhu-gottumukkala-new-deputy-director",
+        "published": "Mon, 19 May 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA Statement on Cyber-Related Alerts and Notifications",
+        "link": "https://www.cisa.gov/news-events/news/cisa-statement-cyber-related-alerts-and-notifications",
+        "published": "Tue, 13 May 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA, DHS S&T, INL, LSU Help Energy Industry Partners Strengthen Incident Response and OT Cybersecurity",
+        "link": "https://www.cisa.gov/news-events/news/cisa-dhs-st-inl-lsu-help-energy-industry-partners-strengthen-incident-response-and-ot-cybersecurity",
+        "published": "Wed, 23 Apr 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "Statement from Matt Hartman on the CVE Program",
+        "link": "https://www.cisa.gov/news-events/news/statement-matt-hartman-cve-program",
+        "published": "Wed, 23 Apr 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA Statement on CVE Program",
+        "link": "https://www.cisa.gov/news-events/news/cisa-statement-cve-program",
+        "published": "Wed, 16 Apr 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA and Partners Issue Fast Flux Cybersecurity Advisory",
+        "link": "https://www.cisa.gov/news-events/news/cisa-and-partners-issue-fast-flux-cybersecurity-advisory",
+        "published": "Thu, 03 Apr 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA Probationary Reinstatements",
+        "link": "https://www.cisa.gov/news-events/news/cisa-probationary-reinstatements",
+        "published": "Tue, 18 Mar 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "Statement on CISA's Red Team",
+        "link": "https://www.cisa.gov/news-events/news/statement-cisas-red-team",
+        "published": "Wed, 12 Mar 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "CISA Calls For Action to Close the Software Understanding Gap",
+        "link": "https://www.cisa.gov/news-events/news/cisa-calls-action-close-software-understanding-gap",
+        "published": "Thu, 16 Jan 25 12:00:00 +0000",
+        "summary": ""
+    },
+    {
+        "title": "UK Arrests Four in \u2018Scattered Spider\u2019 Ransom Group",
+        "link": "https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/",
+        "published": "Thu, 10 Jul 2025 17:31:10 +0000",
+        "summary": "Authorities in the United Kingdom this week arrested four alleged members of \"Scattered Spider,\" a prolific data theft and extortion group whose recent victims include multiple airlines\u00a0and the U.K. retail chain Marks &#038; Spencer."
+    },
+    {
+        "title": "Microsoft Patch Tuesday, July 2025 Edition",
+        "link": "https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/",
+        "published": "Wed, 09 Jul 2025 00:53:33 +0000",
+        "summary": "Microsoft today released updates to fix at least 137 security vulnerabilities in its Windows operating systems and supported software. None of the weaknesses addressed this month are known to be actively exploited, but 14 of the flaws earned Microsoft's most-dire \"critical\" rating, meaning they could be exploited to seize control over vulnerable Windows PCs with little or no help from users."
+    },
+    {
+        "title": "Big Tech\u2019s Mixed Response to U.S. Treasury Sanctions",
+        "link": "https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/",
+        "published": "Thu, 03 Jul 2025 16:06:05 +0000",
+        "summary": "In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But more than a month later, the accused continues to openly operate accounts at a slew of American tech companies, including Facebook, Github, LinkedIn, PayPal and Twitter/X."
+    },
+    {
+        "title": "Senator Chides FBI for Weak Advice on Mobile Security",
+        "link": "https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/",
+        "published": "Mon, 30 Jun 2025 17:33:59 +0000",
+        "summary": "Agents with the Federal Bureau of Investigation (FBI) briefed Capitol Hill staff recently on hardening the security of their mobile devices, after a contacts list stolen from the personal phone of the White House Chief of Staff Susie Wiles was reportedly used to fuel a series of text messages and phone calls impersonating her to U.S. lawmakers. But in a letter this week to the FBI, one of the Senate's most tech-savvy lawmakers says the feds aren't doing enough to recommend more appropriate security protections that are already built into most consumer mobile devices."
+    },
+    {
+        "title": "Inside a Dark Adtech Empire Fed by Fake CAPTCHAs",
+        "link": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
+        "published": "Thu, 12 Jun 2025 22:14:00 +0000",
+        "summary": "Late last year, security researchers made a startling discovery: Kremlin-backed disinformation campaigns were bypassing moderation on social media platforms by leveraging the same malicious advertising technology that powers a sprawling ecosystem of online hucksters and website hackers. A new report on the fallout from that investigation finds this dark ad tech industry is far more resilient and incestuous than previously known."
+    },
+    {
+        "title": "Patch Tuesday, June 2025 Edition",
+        "link": "https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/",
+        "published": "Wed, 11 Jun 2025 00:10:53 +0000",
+        "summary": "Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that software blueprints showing how to exploit a pervasive Windows bug patched this month are now public."
+    },
+    {
+        "title": "Proxy Services Feast on Ukraine\u2019s IP Address Exodus",
+        "link": "https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/",
+        "published": "Thu, 05 Jun 2025 22:44:33 +0000",
+        "summary": "Ukraine has seen nearly one-fifth of its Internet space come under Russian control or sold to Internet address brokers since February 2022, a new study finds. The analysis indicates large chunks of Ukrainian Internet address space are now in the hands of proxy and anonymity services nested at some of America's largest Internet service providers (ISPs)."
+    },
+    {
+        "title": "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018Pig Butchering\u2019 Scams",
+        "link": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
+        "published": "Fri, 30 May 2025 01:55:16 +0000",
+        "summary": "The U.S. government today imposed economic sanctions on Funnull Technology Inc., a Philippines-based company that provides computer infrastructure for hundreds of thousands of websites involved in virtual currency investment scams, commonly known as \u201cpig butchering.\" In January 2025, KrebsOnSecurity detailed how Funnull was being used as a content delivery network that catered to cybercriminals seeking to route their traffic through U.S.-based cloud providers."
+    },
+    {
+        "title": "Pakistan Arrests 21 in \u2018Heartsender\u2019 Malware Service",
+        "link": "https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/",
+        "published": "Wed, 28 May 2025 17:41:47 +0000",
+        "summary": "Authorities in Pakistan have arrested 21 individuals accused of operating \"Heartsender,\" a once popular spam and malware dissemination service that operated for more than a decade. The main clientele for HeartSender were organized crime groups that tried to trick victim companies into making payments to a third party, and its alleged proprietors were publicly identified by KrebsOnSecurity in 2021 after they inadvertently infected their computers with malware."
+    },
+    {
+        "title": "Oops: DanaBot Malware Devs Infected Their Own PCs",
+        "link": "https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/",
+        "published": "Thu, 22 May 2025 21:53:21 +0000",
+        "summary": "The U.S. government today unsealed criminal charges against 16 individuals accused of operating and selling DanaBot, a prolific strain of information-stealing malware that has been sold on Russian cybercrime forums since 2018. The FBI says a newer version of DanaBot was used for espionage, and that many of the defendants exposed their real-life identities after accidentally infecting their own systems with the malware."
+    },
+    {
+        "title": "Code highlighting with Cursor AI for $500,000",
+        "link": "https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/",
+        "published": "Thu, 10 Jul 2025 11:00:41 +0000",
+        "summary": "Kaspersky GReAT experts uncover malicious extensions for Cursor AI that download the Quasar backdoor and a crypto stealer."
+    },
+    {
+        "title": "Approach to mainframe penetration testing on z/OS. Deep dive into RACF",
+        "link": "https://securelist.com/zos-mainframe-pentesting-resource-access-control-facility/116873/",
+        "published": "Tue, 08 Jul 2025 10:00:16 +0000",
+        "summary": "We have explored the RACF security package in z/OS and developed a utility to interact with its database. Now, we are assessing RACF configuration security for penetration testing."
+    },
+    {
+        "title": "Batavia spyware steals data from Russian organizations",
+        "link": "https://securelist.com/batavia-spyware-steals-data-from-russian-organizations/116866/",
+        "published": "Mon, 07 Jul 2025 10:00:26 +0000",
+        "summary": "Kaspersky experts have discovered a new spyware called Batavia, which steals data from corporate devices."
+    },
+    {
+        "title": "AI and collaboration tools: how cyberattackers are targeting SMBs in 2025",
+        "link": "https://securelist.com/smb-threat-report-2025/116830/",
+        "published": "Wed, 25 Jun 2025 10:00:12 +0000",
+        "summary": "In its annual SMB threat report, Kaspersky shares insights into trends and statistics on malware, phishing, scams, and other threats to small and medium-sized businesses, as well as security tips."
+    },
+    {
+        "title": "SparkKitty, SparkCat\u2019s little brother: A new Trojan spy found in the App Store and Google Play",
+        "link": "https://securelist.com/sparkkitty-ios-android-malware/116793/",
+        "published": "Mon, 23 Jun 2025 08:00:37 +0000",
+        "summary": "SparkKitty, a new Trojan spy for iOS and Android, spreads through untrusted websites, the App Store, and Google Play, stealing images from users' galleries."
+    },
+    {
+        "title": "Toxic trend: Another malware threat targets DeepSeek",
+        "link": "https://securelist.com/browservenom-mimicks-deepseek-to-use-malicious-proxy/115728/",
+        "published": "Wed, 11 Jun 2025 10:00:50 +0000",
+        "summary": "Kaspersky GReAT experts discovered a new malicious implant: BrowserVenom. It enables a proxy in browsers like Chrome and Mozilla and spreads through a DeepSeek-mimicking phishing website."
+    },
+    {
+        "title": "Sleep with one eye open: how Librarian Ghouls steal data by night",
+        "link": "https://securelist.com/librarian-ghouls-apt-wakes-up-computers-to-steal-data-and-mine-crypto/116536/",
+        "published": "Mon, 09 Jun 2025 10:00:09 +0000",
+        "summary": "According to Kaspersky, Librarian Ghouls APT continues its series of attacks on Russian entities. A detailed analysis of a malicious campaign utilizing RAR archives and BAT scripts."
+    },
+    {
+        "title": "Analysis of the latest Mirai wave exploiting TBK DVR devices with CVE-2024-3721",
+        "link": "https://securelist.com/mirai-botnet-variant-targets-dvr-devices-with-cve-2024-3721/116742/",
+        "published": "Fri, 06 Jun 2025 10:00:38 +0000",
+        "summary": "Kaspersky GReAT experts describe the new features of a Mirai variant: the latest botnet infections target TBK DVR devices with CVE-2024-3721."
+    },
+    {
+        "title": "IT threat evolution in Q1 2025. Non-mobile statistics",
+        "link": "https://securelist.com/malware-report-q1-2025-pc-iot-statistics/116686/",
+        "published": "Thu, 05 Jun 2025 10:00:25 +0000",
+        "summary": "The report presents statistics for Windows, macOS, IoT, and other threats, including ransomware, miners, local and web-based threats, for Q1 2025."
+    },
+    {
+        "title": "IT threat evolution in Q1 2025. Mobile statistics",
+        "link": "https://securelist.com/malware-report-q1-2025-mobile-statistics/116676/",
+        "published": "Thu, 05 Jun 2025 10:00:04 +0000",
+        "summary": "The number of attacks on mobile devices involving malware, adware, or unwanted apps saw a significant increase in the first quarter."
+    },
+    {
+        "title": "Patch, track, repeat",
+        "link": "https://blog.talosintelligence.com/patch-track-repeat/",
+        "published": "Thu, 10 Jul 2025 18:00:09 GMT",
+        "summary": "Thorsten takes stock of a rapidly evolving vulnerability landscape: record-setting CVE publication rates, the growing fragmentation of reporting systems, and why consistent tracking and patching remain critical as we move through 2025."
+    },
+    {
+        "title": "Asus and Adobe vulnerabilities",
+        "link": "https://blog.talosintelligence.com/asus-and-adobe-vulnerabilities/",
+        "published": "Thu, 10 Jul 2025 15:24:47 GMT",
+        "summary": "Cisco Talos\u2019 Vulnerability Discovery & Research team recently disclosed two vulnerabilities each in Asus Armoury Crate and Adobe Acrobat products."
+    },
+    {
+        "title": "Microsoft Patch Tuesday for July 2025 \u2014 Snort rules and prominent vulnerabilities",
+        "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2025/",
+        "published": "Tue, 08 Jul 2025 20:29:05 GMT",
+        "summary": "Microsoft has released its monthly security update for July 2025, which includes 132 vulnerabilities affecting a range of products, including 14 that Microsoft marked as \u201ccritical.\u201d"
+    },
+    {
+        "title": "A message from Bruce the mechanical shark",
+        "link": "https://blog.talosintelligence.com/a-message-from-bruce-the-mechanical-shark/",
+        "published": "Thu, 03 Jul 2025 18:00:00 GMT",
+        "summary": "This Fourth of July, Bruce, the 25-foot mechanical shark from Jaws, shares how his saltwater struggles mirror the need for real-world cybersecurity stress testing."
+    },
+    {
+        "title": "PDFs: Portable documents, or perfect deliveries for phish?",
+        "link": "https://blog.talosintelligence.com/pdfs-portable-documents-or-perfect-deliveries-for-phish/",
+        "published": "Wed, 02 Jul 2025 10:00:14 GMT",
+        "summary": "A popular social engineering technique returns: callback phishing, or TOAD attacks, which leverage PDFs, VoIP anonymity and even QR code tricks."
+    },
+    {
+        "title": "Getting a career in cybersecurity isn\u2019t easy, but this can help",
+        "link": "https://blog.talosintelligence.com/getting-a-career-in-cybersecurity-isnt-easy-but-this-can-help/",
+        "published": "Thu, 26 Jun 2025 18:00:05 GMT",
+        "summary": "This week, Joe reflects on his unique path into cybersecurity and shares honest advice for breaking into the field. Plus, learn how cybercriminals are abusing AI to launch more sophisticated attacks and what you can do to stay protected."
+    },
+    {
+        "title": "Decrement by one to rule them all: AsIO3.sys driver exploitation",
+        "link": "https://blog.talosintelligence.com/decrement-by-one-to-rule-them-all/",
+        "published": "Thu, 26 Jun 2025 10:00:32 GMT",
+        "summary": "Cisco Talos uncovered and analyzed two critical vulnerabilities in ASUS' AsIO3.sys driver, highlighting serious security risks and the importance of robust driver design."
+    },
+    {
+        "title": "Cybercriminal abuse of large language models",
+        "link": "https://blog.talosintelligence.com/cybercriminal-abuse-of-large-language-models/",
+        "published": "Wed, 25 Jun 2025 10:00:00 GMT",
+        "summary": "Cybercriminals are increasingly gravitating towards uncensored LLMs, cybercriminal-designed LLMs and jailbreaking legitimate LLMs."
+    },
+    {
+        "title": "A week with a \"smart\" car",
+        "link": "https://blog.talosintelligence.com/a-week-with-a-smart-car/",
+        "published": "Wed, 18 Jun 2025 18:00:19 GMT",
+        "summary": "In this edition, Thor shares how a week off with a new car turned into a crash course in modern vehicle tech. Surprisingly, it offers many parallels to cybersecurity usability."
+    },
+    {
+        "title": "When legitimate tools go rogue",
+        "link": "https://blog.talosintelligence.com/when-legitimate-tools-go-rogue/",
+        "published": "Wed, 18 Jun 2025 10:09:27 GMT",
+        "summary": "Attackers are increasingly hiding in plain sight, using the same tools IT and security teams rely on for daily operations. This blog breaks down common techniques and provides recommendations to defenders."
+    },
+    {
+        "title": "Famous Chollima deploying Python version of GolangGhost RAT",
+        "link": "https://blog.talosintelligence.com/python-version-of-golangghost-rat/",
+        "published": "Wed, 18 Jun 2025 10:00:44 GMT",
+        "summary": "Learn how the North Korean-aligned Famous Chollima is using the a new Python-based RAT, \"PylangGhost,\" to target cryptocurrency and blockchain jobseekers in a campaign affecting users primarily in India."
+    },
+    {
+        "title": "Know thyself, know thy environment",
+        "link": "https://blog.talosintelligence.com/know-thyself-know-thy-environment/",
+        "published": "Thu, 12 Jun 2025 18:01:24 GMT",
+        "summary": "In this week's edition, Bill explores the importance of self-awareness and building repeatable processes to better secure your environment."
+    },
+    {
+        "title": "catdoc zero-day, NVIDIA, High-Logic FontCreator and Parallel vulnerabilities",
+        "link": "https://blog.talosintelligence.com/catdoc-zero-day-nvidia-high-logic-fontcreator-and-parallel-vulnerabilities/",
+        "published": "Wed, 11 Jun 2025 13:47:28 GMT",
+        "summary": "Cisco Talos\u2019 Vulnerability Discovery & Research team recently disclosed three zero-day vulnerabilities in catdoc, as well as vulnerabilities in Parallel, NVIDIA and High-Logic FontCreator 15."
+    },
+    {
+        "title": "Microsoft Patch Tuesday for June\u00a02025 \u2014 Snort rules and prominent vulnerabilities",
+        "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-june-2025/",
+        "published": "Tue, 10 Jun 2025 21:45:40 GMT",
+        "summary": "Microsoft has released its monthly security update for June 2025, which includes 66 vulnerabilities affecting a range of products, including 10 that Microsoft marked as \u201ccritical.\u201d"
+    },
+    {
+        "title": "Everyone's on the cyber target list",
+        "link": "https://blog.talosintelligence.com/everyones-on-the-cyber-target-list/",
+        "published": "Thu, 05 Jun 2025 18:00:27 GMT",
+        "summary": "In this week's newsletter, Martin emphasizes that awareness, basic cyber hygiene and preparation are essential for everyone, and highlights Talos' discovery of the new PathWiper malware."
+    }
+]
