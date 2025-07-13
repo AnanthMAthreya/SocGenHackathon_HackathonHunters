@@ -1,4 +1,10 @@
 # SocGenHackathon_HackathonHunters
+👨‍💻 Author
+- Ananth M Athreya [GitHub](https://github.com/AnanthMAthreya)
+- Varun Banda [Github](https://github.com/Varun7sept)
+- Abhay GK [Linkedin](https://www.linkedin.com/in/abhay-gk/)
+- Parth Shukla
+
 🔐 Threat Feed Collector – SocGen Hackathon
 This is the Feed Collector module for an AI-powered Threat Intelligence Feed Aggregator. It is responsible for fetching, cleaning, and organizing cyber threat intelligence from various open-source RSS/Atom feeds.
 
@@ -50,9 +56,7 @@ If you're part of the team:
 Make sure to pull latest before pushing
 Commit meaningful messages
 Keep scripts modular and well-commented
-👨‍💻 Author
-GitHub: Varun7sept
-Contributor to: SocGen Hackathon – HackathonHunters
+
 
 📜 License
 MIT License – feel free to use and adapt.
